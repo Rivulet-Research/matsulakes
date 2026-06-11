@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Large local data (not tracked in git)
+other/input/MatSuBorough_Lake_WQ/
