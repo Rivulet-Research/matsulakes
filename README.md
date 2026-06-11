@@ -4,7 +4,7 @@ Repository for the Mat-Su Borough Volunteer Lake Monitoring Program (MSBVLMP)- d
 
 ## Background
 
-The Mat-Su Borough VLMP monitored water quality across lakes in the Matanuska-Susitna Borough, Alaska. The program was discontinued in 2017. This project revisits the data and methods described in McMillan (2016) to explore what the existing record shows and what it might suggest for how a monitoring program could continue in some form.
+The Mat-Su Borough VLMP monitored water quality across lakes in the Matanuska-Susitna Borough, Alaska. The program was discontinued in 2017 (https://matsugov.us/lakemonitoring). This project revisits the data and methods described in McMillan (2016) to explore what the existing record shows and what it might suggest for how a monitoring program could continue in some form.
 
 The core questions driving this work:
 
