@@ -1,6 +1,6 @@
 # matsulakes
 
-Repository for the Mat-Su Borough Volunteer Lake Monitoring Program (VLMP) — data, analysis, and writing related to [McMillan (2016)](other/documents/McMillan_Thesis_Final_April_20163.pdf) and the potential reinitiation of the program.
+Repository for the Mat-Su Borough Volunteer Lake Monitoring Program (MSBVLMP)- data, analysis, and writing related to [McMillan (2016)](other/documents/McMillan_Thesis_Final_April_20163.pdf) and the potential reinitiation of the program.
 
 ## Background
 
@@ -11,6 +11,7 @@ The core questions driving this work:
 - What does the existing lake water quality dataset reveal about conditions and trends across Mat-Su Borough lakes?
 - What monitoring approaches and metrics were most informative?
 - What would a reinstated or restructured program look like, and why would it be valuable?
+- What are the best methods to make these data "user friendly" and accessible?
 
 ## Data
 
